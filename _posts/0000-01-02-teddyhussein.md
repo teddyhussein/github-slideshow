@@ -2,4 +2,4 @@ layout: slide
 title: "Welcome to out second slide!"
 -----
 Your text
-Use the left arrow to go back!
+This was real confusing but i think i got it!
